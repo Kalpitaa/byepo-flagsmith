@@ -19,6 +19,7 @@ app.use(
       'http://localhost:5174',
       'http://localhost:5175',
       'http://localhost:5176',
+      'https://byepo-flagsmith-z68d.vercel.app',
     ],
     credentials: true,
   })
